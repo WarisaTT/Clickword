@@ -1,9 +1,29 @@
-https://github.com/namfonn02/PROJECT1-SEC-1-FatBird
-https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
+<div align="center">
+  <h1>🦜 FatBird — Project Portfolio</h1>
+  <a href="https://github.com/namfonn02/PROJECT1-SEC-1-FatBird">
+    <img src="https://img.shields.io/badge/PROJECT%201-Click%20Word%20v1-4f86f7?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird">
+    <img src="https://img.shields.io/badge/PROJECT%202-Click%20Word%20v2-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/>
+  </a>
+</div>
 
+<br>
+
+---
+
+## 📁 Projects
+
+| # | Repository | Description | Stack |
+|---|-----------|-------------|-------|
+| 1 | [**PROJECT 1 — Click Word v1** →](https://github.com/namfonn02/PROJECT1-SEC-1-FatBird) | Word-clicking game with hint, clear, and local storage features | Vue.js · TailwindCSS · JSON Server |
+| 2 | [**PROJECT 2 — Click Word v2** →](https://github.com/namfonn02/PROJECT2-SEC-1-FatBird) | Extended version with user accounts, coins, market, and rank board | Vue.js · Pinia · DaisyUI · JSON Server |
+
+---
 
 <div align="center">
-  <h1 style="font-size:24px;">Section 1 <br> 🦜FatBird 🦜</h1>
+  <h1>Section 1 &nbsp;🦜 FatBird 🦜</h1>
 </div>
 
 <h1 align="center">Team Member</h1>
@@ -16,7 +36,6 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
         <th>Member Name</th>
         <th width="30%">Contribution</th>
         <th>Contribution Rate</th>
-        <th></th>
       </tr>
     </thead>
     <tbody>
@@ -31,7 +50,6 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
           </ul>
         </td>
         <td>20%</td>
-        <td><img src="/readme_src/avatar/guy.png"></td>
       </tr>
       <tr>
         <td>65130500101</td>
@@ -45,7 +63,6 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
           </ul>
         </td>
         <td>20%</td>
-        <td><img src="/readme_src/avatar/pat.png"></td>
       </tr>
       <tr>
         <td>65130500112</td>
@@ -55,13 +72,12 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
             <li>Tutorial page <b>[UPDATE]</b></li>
             <li>Quiz word setup</li>
             <li>Animation <b>[UPDATE]</b></li>
-            <li>Fix and refactor code overal <b>[UPDATE]</b></li>
+            <li>Fix and refactor code overall <b>[UPDATE]</b></li>
             <li>Market feature <b>[NEW]</b></li>
             <li>UI image asset <b>[NEW]</b></li>
           </ul>
         </td>
         <td>20%</td>
-        <td><img src="/readme_src/avatar/nine.png"></td>
       </tr>
       <tr>
         <td>65130500115</td>
@@ -70,14 +86,13 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
           <ul>
             <li>Hint feature</li>
             <li>Fix and refactor code overall <b>[UPDATE]</b></li>
-            <li>Readme  <b>[UPDATE]</b></li>
+            <li>Readme <b>[UPDATE]</b></li>
             <li>Components Refactoring <b>[NEW]</b></li>
-            <li>Sound effect</li> <b>[NEW]</b>
+            <li>Sound effect <b>[NEW]</b></li>
             <li>Data design <b>[NEW]</b></li>
           </ul>
         </td>
         <td>20%</td>
-        <td><img src="/readme_src/avatar/namfon.png"></td>
       </tr>
       <tr>
         <td>65130500117</td>
@@ -91,17 +106,15 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
           </ul>
         </td>
         <td>20%</td>
-        <td><img src="/readme_src/avatar/garfair.png"></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<hr>
-<br>
+---
 
 <h1 align="center">Feature</h1>
-<p align="center">"Click Word". It is a game application in which players choose letters to construct words. It will consist of:</p>
+<p align="center">"Click Word" — A game application in which players choose letters to construct words.</p>
 
 <h2>Manage User Account</h2>
 <table align="center">
@@ -113,13 +126,10 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
       <td>
         <ul>
           <li><b>Create User:</b> Players can create their own user account and choose a user profile, which includes a username (3-15 characters) and a password (at least 8 characters).</li>
-        </ul>
-        <ul>
           <li><b>Login:</b> Players can use their user accounts to login to the game.</li>
-        </ul>
-        <ul>
           <li><b>Edit & Delete User:</b> Players can change their username, profile picture, and profile frame, and players can also delete their account.</li>
         </ul>
+        <p>→ <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a></p>
       </td>
     </tr>
   </tbody>
@@ -130,7 +140,11 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
   <tbody>
     <tr>
       <td><img src="/readme_src/screenshot/tutorialImage.webp" width="450px"></td>
-      <td> How to play this game.</td>
+      <td>
+        How to play this game.
+        <br><br>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -140,7 +154,11 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
   <tbody>
     <tr>
       <td><img src="/readme_src/screenshot/soundPage.png" width="450px"></td>
-      <td>Player has the option to set background music and sound effect.</td>
+      <td>
+        Player has the option to set background music and sound effect.
+        <br><br>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -151,12 +169,13 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
     <tr>
       <td><img src="/readme_src/screenshot/modeSelection.png" width="450px"></td>
       <td>
-      Our game features 3 modes:
+        Our game features 3 modes:
         <ul>
           <li><b>Easy:</b> contains 35 words, each with 4 letters.</li>
           <li><b>Medium:</b> contains 35 words, each with 6 letters.</li>
           <li><b>Hard:</b> contains 30 words, each with 8 letters.</li>
         </ul>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
       </td>
     </tr>
   </tbody>
@@ -167,7 +186,11 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
   <tbody>
     <tr>
       <td><img src="/readme_src/screenshot/clearImage.png" width="450px"></td>
-      <td>If you select the wrong letter and need to reset your choices, click the "Clear" button. This will remove all selected letters, except those revealed by hints.</td>
+      <td>
+        If you select the wrong letter and need to reset your choices, click the "Clear" button. This will remove all selected letters, except those revealed by hints.
+        <br><br>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -177,7 +200,11 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
   <tbody>
     <tr>
       <td><img src="/readme_src/screenshot/hintImage.png" width="450px"></td>
-      <td>The game starts with 3 hints. If you get stuck, you can use a hint to reveal one correct letter in the answer box. You’ll also earn 5 additional hints for completing each game mode.</td>
+      <td>
+        The game starts with 3 hints. If you get stuck, you can use a hint to reveal one correct letter in the answer box. You'll also earn 5 additional hints for completing each game mode.
+        <br><br>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -187,12 +214,14 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
   <tbody>
     <tr>
       <td><img src="/readme_src/screenshot/coinImage.png" width="450px"></td>
-      <td>At the beginning of the game, the player will not have any coins. The player will receive coins when playing through each level. Each mode will receive coins as follows:
+      <td>
+        At the beginning of the game, the player will not have any coins. The player will receive coins when playing through each level:
         <ul>
-          <li><b>Easy Mode</b>: Get 1 coin</li>
-          <li><b>Medium mode</b>: Get 2 coin</li>
-          <li><b>Hard Mode</b>: Get 4 coin</li>
+          <li><b>Easy Mode:</b> Get 1 coin</li>
+          <li><b>Medium Mode:</b> Get 2 coins</li>
+          <li><b>Hard Mode:</b> Get 4 coins</li>
         </ul>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
       </td>
     </tr>
   </tbody>
@@ -204,9 +233,9 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
     <tr>
       <td><img src="/readme_src/screenshot/marketpage.png" width="450px"></td>
       <td>
-        <ul>
-          Players can use their coins to purchase hints and profile frames in the market.</li>
-        </ul>
+        Players can use their coins to purchase hints and profile frames in the market.
+        <br><br>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
       </td>
     </tr>
   </tbody>
@@ -217,7 +246,11 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
   <tbody>
     <tr>
       <td><img src="/readme_src/screenshot/successImage.png" width="450px"></td>
-      <td>Track your success rate by measuring how many levels you complete in each mode. Your progress will contribute to reaching a total of 100%.</td>
+      <td>
+        Track your success rate by measuring how many levels you complete in each mode. Your progress will contribute to reaching a total of 100%.
+        <br><br>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -229,126 +262,122 @@ https://github.com/namfonn02/PROJECT2-SEC-1-FatBird
       <td><img src="/readme_src/screenshot/rankBoardpage.png" width="450px"></td>
       <td>
         <ul>
-          <li><b>Time:</b> Tracks the time the user plays the game. It starts tracking the time when the game starts. If the player leaves the page, the time is paused and resumes when the user returns.</li>
-        </ul>
-        <ul>
-          <li><b>Rank Board:</b> A ranking board for users in the application. It displays the user rankings along with personal information such as username, number of coins, success rate, and time spent. Users are sorted by: </li>
+          <li><b>Time:</b> Tracks the time the user plays the game. It starts tracking when the game starts. If the player leaves the page, the time is paused and resumes when the user returns.</li>
+          <li><b>Rank Board:</b> A ranking board for users in the application. It displays the user rankings along with personal information such as username, number of coins, success rate, and time spent. Users are sorted by:
             <ul>
               <li>If users have more success, they will be ranked higher.</li>
-              <li>If users have the same success rate, the ranking will be based on time spent, with users who spent less time ranked higher.</li>
+              <li>If users have the same success rate, the ranking will be based on time spent — less time = higher rank.</li>
             </ul>
+          </li>
         </ul>
+        → <a href="https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/tree/main/src">View source code</a>
       </td>
     </tr>
   </tbody>
 </table>
 
-<hr>
-<br>
+---
 
 <div align="center">
   <h1>Game Manual</h1>
 </div>
 
-<h2>Welcome to Click Word!</h2>
-<p>Get ready to challenge your knowledge and thinking skills to the fullest. If you're ready, let the fun begin.</p>
+## Welcome to Click Word!
 
-<hr>
+Get ready to challenge your knowledge and thinking skills to the fullest. If you're ready, let the fun begin.
 
-<h2>How To Play?</h2>
+---
 
-<ol>
-  <li>Login with your user account. If you don't have one, Create an account first.</li>
-  <li>Click the Start Game button to begin.</li>
-  <li>Select your desired difficulty level. Each level offers unique challenges for an engaging experience.</li>
-  <li>Choose letters from the grid and arrange them to form the correct word.</li>
-  <li>If your answer is incorrect, the selection box will reset.</li>
-  <li>If you make a mistake, you can click the "Clear" button to start over.</li>
-  <li>Use "Hints" to reveal a letter in the correct order if needed.</li>
-  <li>If you run out of hints, you can use coins to buy more hints at the market.</li>
-  <li>If you want a beautiful profile picture frame, you can buy it at the market.</li>
-  <li>If you want to change your username, profile picture, and profile frame, you can click on the profile icon.</li>
-  <li>If you want to see your ranking, press the "Rank Board" button on the home page.</li>
-</ol>
+## How To Play?
+
+1. Login with your user account. If you don't have one, create an account first.
+2. Click the **Start Game** button to begin.
+3. Select your desired difficulty level. Each level offers unique challenges for an engaging experience.
+4. Choose letters from the grid and arrange them to form the correct word.
+5. If your answer is incorrect, the selection box will reset.
+6. If you make a mistake, you can click the **"Clear"** button to start over.
+7. Use **"Hints"** to reveal a letter in the correct order if needed.
+8. If you run out of hints, you can use coins to buy more hints at the market.
+9. If you want a beautiful profile picture frame, you can buy it at the market.
+10. If you want to change your username, profile picture, and profile frame, you can click on the profile icon.
+11. If you want to see your ranking, press the **"Rank Board"** button on the home page.
+
+---
 
 <div align="center">
-  <h1>Clip Tutorial To Play Game</h1>
+  <h1>📽️ Clip Tutorial To Play Game</h1>
 </div>
 
-[![Start Page](/readme_src/screenshot/startPage.png)](https://drive.google.com/file/d/1mJrQBGvyfDnMVQsFWt0pw31sHsKtB_is/view)
+<div align="center">
+  <a href="https://drive.google.com/file/d/1mJrQBGvyfDnMVQsFWt0pw31sHsKtB_is/view">
+    <img src="/readme_src/screenshot/startPage.png" alt="Watch Tutorial" width="600px"/>
+    <br>
+    <b>▶ Click to Watch Tutorial</b>
+  </a>
+</div>
+
+---
 
 <div align="center">
   <h1>References</h1>
 </div>
 
-- **Game Design**
+**Game Design**
+- [Infinite Word Search Crossy](https://apps.apple.com/us/app/infinite-word-search-crossy/id1130710966)
+- UI: [DaisyUI](https://daisyui.com/) and [TailwindCSS](https://tailwindcss.com/)
 
-  - [Infinite Word Search Crossy](https://apps.apple.com/us/app/infinite-word-search-crossy/id1130710966)
-  - UI Game [DaisyUI](https://daisyui.com/) and [TailwindCSS](https://tailwindcss.com/)
+**Images**
+- Icons from [Flaticon](https://www.flaticon.com/)
+- Profile Frame [Pngegg](https://www.pngegg.com/th/)
+- Avatars from [Recraft](https://www.recraft.ai/)
 
-- **Images**
+**Animation**
+- From [TailwindCSS](https://tailwindcss.com/) and [Codepen.io](https://codepen.io/alvarotrigo/pen/bGrXmwM)
 
-  - Icons from [Flaticon](https://www.flaticon.com/)
-  - Profile Frame [Pngegg](https://www.pngegg.com/th/)
-  - Avatars from [Recraft](https://www.recraft.ai/)
+**Sound Effects and Background Music**
+- Background sound — [Cotton Candy (Children Puzzle Game Music)](https://pixabay.com/music/happy-childrens-tunes-cotton-candy-children-puzzle-game-music-197733/)
+- ClickButton / Clear / Hint / SelectLetter sound — [Click sound](https://mixkit.co/free-sound-effects/click/)
+- Success sound — [Success 1](https://pixabay.com/sound-effects/success-1-6297/)
+- Fail sound — [Video game - points lost - retro](https://uppbeat.io/sfx/video-game-points-lost-retro/507/8098)
 
-- **Animation**
+**Document Research**
+- [Mozilla MDN](https://developer.mozilla.org/en-US/)
+- [W3Schools](https://www.w3schools.com/)
+- [Pinia](https://pinia.vuejs.org/)
 
-  - from [TailwindCSS](https://tailwindcss.com/) and [Codepen io](https://codepen.io/alvarotrigo/pen/bGrXmwM)
+**Notable Implementations**
+- [Using the prototype Property](https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/blob/main/src/extensions/array.js) · [Reference from W3Schools](https://www.w3schools.com/js/js_object_prototypes.asp)
+- [Documentation Comments in JSDoc](https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/blob/main/src/class/QueueManager.js) · [Reference from GeeksForGeeks](https://www.geeksforgeeks.org/documentation-comments-in-jsdoc/)
+- [Implement Queue using Array](https://github.com/namfonn02/PROJECT2-SEC-1-FatBird/blob/main/src/class/QueueManager.js#L95-L106) · [Reference from GeeksForGeeks](https://www.geeksforgeeks.org/implementation-queue-javascript/)
 
-- **Sound Effects and Background Music**
+---
 
-  - Background sound -- [Cotton Candy (Children Puzzle Game Music)](https://pixabay.com/music/happy-childrens-tunes-cotton-candy-children-puzzle-game-music-197733/)
-  - ClickButton sound -- [Click sound](https://mixkit.co/free-sound-effects/click/)
-  - Success sound -- [Success 1](https://pixabay.com/sound-effects/success-1-6297/)
-  - Fail sound -- [Video game - points lost - retro](https://uppbeat.io/sfx/video-game-points-lost-retro/507/8098)
-  - Clear sound -- [Click sound](https://mixkit.co/free-sound-effects/click/)
-  - Hint sound -- [Click sound](https://mixkit.co/free-sound-effects/click/)
-  - SelectLetter sound -- [Sound effect click](https://mixkit.co/free-sound-effects/click/)
+<h2>⚙️ Config: Post Backend (CORS Fix)</h2>
 
-- **Document Resreach**
+If you have an issue about Cross-origin resource sharing (CORS) when logging in or creating a new account, follow these steps:
 
-  - [Mozilla](https://developer.mozilla.org/en-US/)
-  - [w3school](https://www.w3schools.com/)
-  - [Pinia](https://pinia.vuejs.org/)
+**1. Change the port in `package.json`:**
 
-- **Using the prototype Property**
-
-  - [See the implementation...](src/extensions/array.js) from
-    [Reference from W3Schools](https://www.w3schools.com/js/js_object_prototypes.asp#:~:text=Using%20the%20prototype,to%20object%20constructors%3A)
-
-- **Documentation Comments in JSDoc**
-
-  - [See the implementation...](src/class/QueueManager.js) from
-    [Reference from JSDoc](https://www.geeksforgeeks.org/documentation-comments-in-jsdoc/)
-
-- **Implement Queue using array**
-  - [See the implementation...](src/class/QueueManager.js#L95-L106) from
-    [Reference from GeeksForGeeks](https://www.geeksforgeeks.org/implementation-queue-javascript/#:~:text=Implement%20Queue%20using%20array)
-    <br>
-
-<div >
-  <h2>Config Post Backend</h2>
-  <p>If you have issue about Cross-origin resource sharing (CORS) when Login and Create new account. follow this:
-
-- change to port never used for backend in `package.json`
-
-```
+```json
 "backend": "json-server --watch ./data/db.json --port 5000"
 ```
 
-- change to samme port backend form `package.json` in `vite.config.js`
+**2. Match the port in `vite.config.js`:**
 
-```
-  server: {
-    proxy: {
-      '/api': {
-        target: 'http://localhost:5000',
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, ''),
-      },
+```js
+server: {
+  proxy: {
+    '/api': {
+      target: 'http://localhost:5000',
+      changeOrigin: true,
+      rewrite: (path) => path.replace(/^\/api/, ''),
     },
-  }</p>
+  },
+}
 ```
 
+---
+
+<div align="center">
+  <sub>Made with ❤️ by Team FatBird · Section 1</sub>
 </div>
